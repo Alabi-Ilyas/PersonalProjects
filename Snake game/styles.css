@@ -1,0 +1,22 @@
+.grid {
+	width: 500px;
+	height: 300px;
+	border: solid black 5px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.grid div {
+	width: 20px;
+	height: 20px;
+}
+
+
+.Reset{
+    font-style: normal;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+    align-items: center;
+    display: flex;
+}
